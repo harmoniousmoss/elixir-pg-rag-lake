@@ -55,3 +55,4 @@ It uses PostgreSQL with the **pgvector** extension for vector storage, and integ
 - [ ] Integrate JWT authentication (Guardian/Pow)  
 - [ ] Enforce role-based access control on API routes  
 - [ ] Provide Docker Compose for full local dev stack
+# elixir-pg-rag-lake
